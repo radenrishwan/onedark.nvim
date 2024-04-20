@@ -30,7 +30,7 @@ return {
   darker = {
     black = "#0a0a0a",
     bg0 = "#1f2329",
-    bg1 = "#282c34",
+    bg1 = "#0a0a0a",
     bg2 = "#30363f",
     bg3 = "#323641",
     bg_d = "#0a0a0a",
